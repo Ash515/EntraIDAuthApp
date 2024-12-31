@@ -1,4 +1,4 @@
 # EntraIDAuthApp
 Authentication Service using Entra ID
 
-Ashwin Kumar R
+By Ashwin Kumar R
